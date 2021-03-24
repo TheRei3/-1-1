@@ -17,6 +17,7 @@ public class text {
 			
 			 System.out.println("Hello, world");  // Hello,word 출력
 			
+			 
 			
 		}
 		
